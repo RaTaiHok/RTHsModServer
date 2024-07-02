@@ -75,6 +75,7 @@ ip：rth.stes.net.cn:60829
   - TabTPS
   - Essential-Commands
   - Biome-Size
+  - Lithium
 - Game Mods
   - Dungeons-and-Taverns
   - Towns-and-Towers
