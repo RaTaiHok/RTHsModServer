@@ -6,59 +6,65 @@ projects: []
 assignees:
   - octocat
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: input
-    id: contact
+    id: user_name
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: 玩家名
+      description: 请输入你在服务器中的玩家名
+      placeholder: ex. RTHsama
     validations:
       required: true
+
   - type: dropdown
-    id: version
+    id: feedback_type
     attributes:
-      label: Version
-      description: What version of our software are you running?
+      label: 反馈类型
+      description: 请选择反馈类型
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
-      default: 0
+        - Bug反馈
+        - 建议
     validations:
       required: true
-  - type: dropdown
-    id: browsers
+
+  - type: conditional
     attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
-  - type: textarea
-    id: logs
+      condition: "{{feedback_type == 'Bug反馈'}}"
+      fields:
+        - type: input
+          id: game_version
+          attributes:
+            label: 游戏版本和客户端
+            description: 请输入你使用的mc版本和客户端
+            placeholder: ex. 1.20.1 Fabric
+          validations:
+            required: true
+
+        - type: textarea
+          id: mod_list
+          attributes:
+            label: Mod列表
+            description: 请输入你使用的Mod列表
+            placeholder: 请列出所有安装的Mod
+          validations:
+            required: true
+
+        - type: textarea
+          id: bug_log
+          attributes:
+            label: Bug日志
+            description: 请提供bug发生时的日志
+            placeholder: 复制粘贴你的日志内容
+          validations:
+            required: true
+
+  - type: conditional
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+      condition: "{{feedback_type == '建议'}}"
+      fields:
+        - type: textarea
+          id: suggestion
+          attributes:
+            label: 想法或建议
+            description: 请尽情提出您的想法或建议
+          validations:
+            required: true
