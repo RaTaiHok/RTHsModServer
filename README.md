@@ -55,6 +55,9 @@ ip：rth.stes.net.cn:60829
 - 作物盛景 Croptopia
   - EpheroLib
 - 帕秋莉手册 Patchouli
+- 旅行背包 Travelers-Backpack
+  - Cardinal-Components
+- 饰品栏 Trinkets
 
 ## **服务端Mod列表（会更新）** Server Mods List
 
