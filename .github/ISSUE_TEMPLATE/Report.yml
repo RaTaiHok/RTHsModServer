@@ -4,7 +4,7 @@ title: "Feedback"
 labels: []
 projects: []
 assignees:
-  - RaTaiHok
+  - 'RaTaiHok'
 body:
   - type: input
     id: user_name
