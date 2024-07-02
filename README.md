@@ -74,6 +74,7 @@ ip：rth.stes.net.cn:60829
   - FTB Essentials
   - TabTPS
   - Essential-Commands
+  - Biome-Size
 - Game Mods
   - Dungeons-and-Taverns
   - Towns-and-Towers
