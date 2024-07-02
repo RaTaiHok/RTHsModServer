@@ -68,6 +68,6 @@ body:
     attributes:
       label: 想法或建议
       description: 请尽情提出您的想法或建议
-      placeholder: ""
+      placeholder: ~
     validations:
       required: false
