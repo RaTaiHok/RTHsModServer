@@ -4,7 +4,7 @@ title: "Feedback"
 labels: []
 projects: []
 assignees:
-  - octocat
+  - RaTaiHok
 body:
   - type: input
     id: user_name
@@ -68,6 +68,6 @@ body:
     attributes:
       label: 想法或建议
       description: 请尽情提出您的想法或建议
-      placeholder: 请尽量详细描述
+      placeholder: ""
     validations:
       required: false
