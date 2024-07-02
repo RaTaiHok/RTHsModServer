@@ -26,45 +26,48 @@ body:
     validations:
       required: true
 
-  - type: conditional
+  - type: markdown
     attributes:
-      condition: "{{feedback_type == 'Bug反馈'}}"
-      fields:
-        - type: input
-          id: game_version
-          attributes:
-            label: 游戏版本和客户端
-            description: 请输入你使用的mc版本和客户端
-            placeholder: ex. 1.20.1 Fabric
-          validations:
-            required: true
+      value: |
+        ### 如果您选择了 **Bug反馈**，请填写以下内容：
 
-        - type: textarea
-          id: mod_list
-          attributes:
-            label: Mod列表
-            description: 请输入你使用的Mod列表
-            placeholder: 请列出所有安装的Mod
-          validations:
-            required: true
-
-        - type: textarea
-          id: bug_log
-          attributes:
-            label: Bug日志
-            description: 请提供bug发生时的日志
-            placeholder: 复制粘贴你的日志内容
-          validations:
-            required: true
-
-  - type: conditional
+  - type: input
+    id: game_version
     attributes:
-      condition: "{{feedback_type == '建议'}}"
-      fields:
-        - type: textarea
-          id: suggestion
-          attributes:
-            label: 想法或建议
-            description: 请尽情提出您的想法或建议
-          validations:
-            required: true
+      label: 游戏版本和客户端
+      description: 请输入你使用的mc版本和客户端
+      placeholder: ex. 1.20.1 Fabric
+    validations:
+      required: false
+
+  - type: textarea
+    id: mod_list
+    attributes:
+      label: Mod列表
+      description: 请输入你使用的Mod列表
+      placeholder: 请列出所有安装的Mod
+    validations:
+      required: false
+
+  - type: textarea
+    id: bug_log
+    attributes:
+      label: Bug日志
+      description: 请提供bug发生时的日志
+      placeholder: 复制粘贴你的日志内容
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ### 如果您选择了 **建议**，请填写以下内容：
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 想法或建议
+      description: 请尽情提出您的想法或建议
+      placeholder: 请尽量详细描述
+    validations:
+      required: false
