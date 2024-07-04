@@ -31,8 +31,6 @@ ip：rth.stes.net.cn:60829
 
 ## **客户端Mod列表（会更新）** Client Mods List
 
-- DataPacks
-  - FZ Survival Data Pack v3.1.9
 - Libs
   - Fabric API
   - Architectury
@@ -63,6 +61,8 @@ ip：rth.stes.net.cn:60829
 
 ## **服务端Mod列表（会更新）** Server Mods List
 
+- DataPacks
+  - FZ Survival Data Pack v3.1.9
 - Performance Optimization/Manager/Permission Mods
   - Packet-Fixer
   - LuckPerms
