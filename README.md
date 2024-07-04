@@ -58,6 +58,8 @@ ip：rth.stes.net.cn:60829
 - 旅行背包 Travelers-Backpack
   - Cardinal-Components
 - 饰品栏 Trinkets
+- 多态合成 Polymorph
+- 扩展炼药 Extra-Alchemy
 
 ## **服务端Mod列表（会更新）** Server Mods List
 
