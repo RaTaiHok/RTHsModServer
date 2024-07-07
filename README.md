@@ -8,7 +8,7 @@
 
 ~~ip：rth.stes.net.cn:60829~~
 
-ip: rth.stes.net.cn:33116
+ip：rth.stes.net.cn:33115
 
 [客户端Mod包下载(不含辅助/优化Mod，需要自己再配)](https://raintoneh.stehp.cn/Mods-NGPlus.zip)
 
