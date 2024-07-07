@@ -6,7 +6,9 @@
 
 版本：Java 1.20.1
 
-ip：rth.stes.net.cn:60829
+~~ip：rth.stes.net.cn:60829~~
+
+ip: rth.stes.net.cn:33116
 
 [客户端Mod包下载(不含辅助/优化Mod，需要自己再配)](https://raintoneh.stehp.cn/Mods-NGPlus.zip)
 
