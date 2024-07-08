@@ -41,13 +41,13 @@ ip：rth.stes.net.cn:33115
   - Balm
 - 戈伯2 Gobber2
 - 格雷科技现代版 GregTechCEu-Modern
-- 更好的下界 Better-nether
+- 更好的下界 Better-Nether
   - Bclib
-- 更好的末地 Better-end
+- 更好的末地 Better-End
   - Bclib
 - 机械动力 Create
   - Porting-Lib
-- 农夫乐事 Farmers-delight
+- 农夫乐事 Farmers-Delight
 - 应用能源2 AE2(Applied-Energistics-2)
 - 月亮事件 Enhanced-Celestials
   - CorgiLib
@@ -59,11 +59,19 @@ ip：rth.stes.net.cn:33115
 - 饰品栏 Trinkets
 - 多态合成 Polymorph
 - 扩展炼药 Extra-Alchemy
+- Paladin的家具 Paladin-Furniture-Mod
+- 植物魔法 Botania
+- 精致存储 Refined-Storage
+- 紫晶魔艺 Amethyst-Imbuement
+- 共享原理图 Syncmatica
+  - 投影 Litematica
+    - Malilib
 
 ## **服务端Mod列表（会更新）** Server Mods List
 
 - DataPacks
   - FZ Survival Data Pack v3.1.9
+  - Ichphilipp's Endcity-Better-End
 - Performance Optimization/Manager/Permission Mods
   - Packet-Fixer
   - LuckPerms
