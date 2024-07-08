@@ -10,7 +10,13 @@
 
 ip：rth.stes.net.cn:33115
 
-[客户端Mod包下载(不含辅助/优化Mod，需要自己再配)](https://raintoneh.stehp.cn/Mods-NGPlus.zip)
+## **客户端Mod包** Client Mods Packages
+
+不含辅助/优化Mod，需要自己再配
+
+Mod包更新时间: 2024.7.9 1:50
+
+[Mod包下载链接](https://raintoneh.stehp.cn/Mods-NGPlus.zip)
 
 > [!NOTE]
 > 下载请单独开一个标签页粘贴链接下载，在github页直接打开会403
