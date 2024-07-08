@@ -14,7 +14,7 @@ ip：rth.stes.net.cn:33115
 
 不含辅助/优化Mod，需要自己再配
 
-Mod包更新时间: 2024.7.9 1:50
+Mod包更新时间: 2024.7.9 2:10
 
 [Mod包下载链接](https://raintoneh.stehp.cn/Mods-NGPlus.zip)
 
@@ -43,6 +43,7 @@ Mod包更新时间: 2024.7.9 1:50
   - Architectury
   - Fabric Cloth Config
   - Mixin Extras
+  - Fabric Language Kotlin
 - 传送石碑 Waystones
   - Balm
 - 戈伯2 Gobber2
@@ -69,6 +70,9 @@ Mod包更新时间: 2024.7.9 1:50
 - 植物魔法 Botania
 - 精致存储 Refined-Storage
 - 紫晶魔艺 Amethyst-Imbuement
+  - Amethyst Core
+    - Fzzy Config
+    - Fzzy Core
 - 共享原理图 Syncmatica
   - 投影 Litematica
     - Malilib
