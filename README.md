@@ -21,7 +21,6 @@ ip：rth.stes.net.cn:33115
 - 服务器使用了LuckPerms，如有特殊需求请在issues中申请权限请求
 - 服务器使用了Ledger，如有回档需求请在issues中提出
 - 服务器使用了FZ生存数据包，帮助文档请自行查阅或者按照游戏中的步骤提示操作
-- 服务器的性能并不是很高，掉刻严重属正常现象，还请谅解
 - 如果你使用了钠(Sodium)模组，请配合铟(Indium)模组使用，否则肯能会导致部分贴图出现错误
 - 请尽量使用REI物品管理器，JEI对一些模组兼容性并不完全，EMI请使用全套模组(Loot, Extra Mod Integrations)
 - 如果有想加的Mod或者想对当前Mod列表提出建议的请在issues中提出
