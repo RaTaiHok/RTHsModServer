@@ -79,6 +79,7 @@ Mod包更新时间: 2024.7.9 2:10
     - Malilib
 - ToNeko
   - ctLib
+- Kawaii Dishes
 
 ## **服务端Mod列表（会更新）** Server Mods List
 
