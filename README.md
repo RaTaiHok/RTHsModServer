@@ -77,8 +77,6 @@ Mod包更新时间: 2024.7.9 2:10
 - 共享原理图 Syncmatica
   - 投影 Litematica
     - Malilib
-- ToNeko
-  - ctLib
 - Kawaii Dishes
 
 ## **服务端Mod列表（会更新）** Server Mods List
@@ -109,3 +107,5 @@ Mod包更新时间: 2024.7.9 2:10
   - Towns-and-Towers
   - Tectonic
   - Terralith
+  - ToNeko
+    - ctLib
