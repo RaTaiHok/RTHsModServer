@@ -2,7 +2,7 @@
 
 此版本为三周目
 
-[二周目信息](README.md)
+[二周目信息](README_NGP.md)
 
 # **说明** Description
 
