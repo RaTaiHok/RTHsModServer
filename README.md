@@ -44,6 +44,7 @@ Mod包更新时间: 2024.7.9 2:10
   - Fabric Cloth Config
   - Mixin Extras
   - Fabric Language Kotlin
+  - Forge Config API Port
 - 传送石碑 Waystones
   - Balm
 - 戈伯2 Gobber2
@@ -76,6 +77,8 @@ Mod包更新时间: 2024.7.9 2:10
 - 共享原理图 Syncmatica
   - 投影 Litematica
     - Malilib
+- ToNeko
+  - ctLib
 
 ## **服务端Mod列表（会更新）** Server Mods List
 
