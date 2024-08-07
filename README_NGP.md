@@ -8,7 +8,7 @@
 
 ~~ip：rth.stes.net.cn:60829~~
 
-ip：rth.stes.net.cn:33115
+ip：rth.stes.net.cn:33114
 
 ## **客户端Mod包** Client Mods Packages
 
