@@ -14,9 +14,15 @@ ip：rth.stes.net.cn:33114
 
 不含辅助/优化Mod，需要自己再配
 
-Mod包更新时间: 2024.7.9 2:10
+Mod包(v0.0.4)更新时间: 2024.7.9 2:10
 
-[Mod包下载链接](https://raintoneh.stehp.cn/Mods-NGPlus.zip)
+Mod包(v0.0.5)更新时间: 2024.8.11 22:10
+
+[Mod基本包下载(旧) v0.0.4](https://raintoneh.stehp.cn/modpacks/ngplus/Mods-NGPlus0.0.4.zip)
+
+[Mod基本包下载 v0.0.5](https://raintoneh.stehp.cn/modpacks/ngplus/Mods-NGPlus0.0.5.zip)
+
+[Mod更新包下载 适用于基础包v0.0.4](https://raintoneh.stehp.cn/modpacks/ngplus/Mods-NGPAdd-For0.0.4.zip)
 
 > [!NOTE]
 > 下载请单独开一个标签页粘贴链接下载，在github页直接打开会403
@@ -77,6 +83,11 @@ Mod包更新时间: 2024.7.9 2:10
 - 共享原理图 Syncmatica
   - 投影 Litematica
     - Malilib
+- 雾中人 The-Man-From-The-Fog
+- MC毁灭战士 MC-Doom
+  - Trinkets
+  - SmartBrain-Lib
+  - Azure-lib
 
 ## **服务端Mod列表（会更新）** Server Mods List
 
