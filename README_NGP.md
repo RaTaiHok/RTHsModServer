@@ -16,7 +16,7 @@ ip：rth.stes.net.cn:33114
 
 Mod包(v0.0.4)更新时间: 2024.7.9 2:10
 
-Mod包(v0.0.5)更新时间: 2024.8.11 22:15
+Mod包(v0.0.5)更新时间: 2024.8.11 22:20
 
 [Mod基本包下载(旧) v0.0.4](https://raintoneh.stehp.cn/modpacks/ngplus/Mods-NGPlus0.0.4.zip)
 
@@ -83,8 +83,6 @@ Mod包(v0.0.5)更新时间: 2024.8.11 22:15
 - 共享原理图 Syncmatica
   - 投影 Litematica
     - Malilib
-- 雾中人 The-Man-From-The-Fog
-  - GeckoLib
 - MC毁灭战士 MC-Doom
   - Trinkets
   - SmartBrain-Lib
