@@ -85,10 +85,6 @@ Mod包(v0.0.5)更新时间: 2024.8.11 22:30
     - Malilib
 - 雾中人 The-Man-From-The-Fog
   - Gecko-Lib
-- MC毁灭战士 MC-Doom
-  - Trinkets
-  - SmartBrain-Lib
-  - Azure-lib
 
 ## **服务端Mod列表（会更新）** Server Mods List
 
